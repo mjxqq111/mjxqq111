@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Ivan 👋
+
+# I am a C++ Developer
+Focused on algorithmic trading and HFT systems
+
+# Education
+**BSUIR**
+
+*Faculty of Computer Systems and Networks (FCSaN), Software Engineering*
+
+2024 – present day
 
 <!--
 **mjxqq111/mjxqq111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
