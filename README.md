@@ -1,7 +1,12 @@
-## Hi there, I'm Ivan 👋
+# Hi there, I'm Ivan 👋
 
-# I am a C++ Developer
+## I am a C++ Developer
 Focused on algorithmic trading and HFT systems
+
+# Technical Skills
+Programming languages: **C++, C, Python**
+
+Algorithms and Data Structures, Computer Networks
 
 # Education
 **BSUIR**
@@ -10,17 +15,7 @@ Focused on algorithmic trading and HFT systems
 
 2024 – present day
 
-<!--
-**mjxqq111/mjxqq111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages
+- Russian - Native
+- Belarusian - Advanced
+- English - Advanced
