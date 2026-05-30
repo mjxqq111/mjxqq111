@@ -13,11 +13,7 @@ Focused on algorithmic trading and HFT systems
 | Additional Skills | Statistics, Probability Theory, Mathematical Analysis |
 
 ### 🎓 Education
-**BSUIR**
-
-*Faculty of Computer Systems and Networks (FCSaN), Software Engineering*
-
-2024 – present day
+**BSUIR** | Faculty of Computer Systems and Networks (FCSaN) | Software Engineering | 2024 – present day
 
 ### 🌐 Languages
 - Russian - Native
