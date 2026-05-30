@@ -19,3 +19,8 @@ Focused on algorithmic trading and HFT systems
 - Russian - Native
 - Belarusian - Advanced
 - English - Advanced
+
+### 💬 Reach me
+Telegram: @mjxqq\
+LinkedIn: [Ivan Morozov](https://www.linkedin.com/in/ivan-morozov-0655983b3/)
+
